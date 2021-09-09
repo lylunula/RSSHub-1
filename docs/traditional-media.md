@@ -602,6 +602,12 @@ Type 栏目：
 
 <Route author="HenryQW" example="/dwnews/rank" path="/dwnews/rank"/>
 
+## 華視新聞網
+
+### Top
+
+<Route author="nczitzk" example="/cts/top" path="/cts/top"/>
+
 ## 华尔街见闻
 
 ### 华尔街见闻

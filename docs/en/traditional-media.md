@@ -312,3 +312,9 @@ Provide full article RSS for WSJ topics.
 Provides all of the articles by the specified Yahoo! author.
 
 </RouteEn>
+
+## 華視新聞網
+
+### Top
+
+<RouteEn author="nczitzk" example="/cts/top" path="/cts/top"/>
