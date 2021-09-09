@@ -628,6 +628,12 @@ Type 栏目：
 
 </Route>
 
+## 華視新聞網
+
+### 編輯推薦
+
+<Route author="nczitzk" example="/cts/recommend" path="/cts/recommend"/>
+
 ## 极客公园
 
 ### 全球快讯
