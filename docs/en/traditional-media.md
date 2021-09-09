@@ -312,3 +312,19 @@ Provide full article RSS for WSJ topics.
 Provides all of the articles by the specified Yahoo! author.
 
 </RouteEn>
+
+## 公視新聞網
+
+### Category
+
+<RouteEn author="nczitzk" example="/pts" path="/pts/:category?" :paramsDesc="['Category, see below, most read by default']">
+
+| 政治 | 生活 | 全球 | 地方 | 兩岸 |
+| ---- | ---- | ---- | ---- | ---- |
+| 1    | 5    | 4    | 11   | 9    |
+
+| 文教科技 | 產經 | 社福人權 | 環境 | 社會 |
+| -------- | ---- | -------- | ---- | ---- |
+| 6        | 10   | 12       | 3    | 7    |
+
+</RouteEn>

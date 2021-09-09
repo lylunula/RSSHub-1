@@ -602,6 +602,22 @@ Type 栏目：
 
 <Route author="HenryQW" example="/dwnews/rank" path="/dwnews/rank"/>
 
+## 公視新聞網
+
+### 分類
+
+<Route author="nczitzk" example="/pts" path="/pts/:category?" :paramsDesc="['分类，见下表，默认为最多人閱讀']">
+
+| 政治 | 生活 | 全球 | 地方 | 兩岸 |
+| ---- | ---- | ---- | ---- | ---- |
+| 1    | 5    | 4    | 11   | 9    |
+
+| 文教科技 | 產經 | 社福人權 | 環境 | 社會 |
+| -------- | ---- | -------- | ---- | ---- |
+| 6        | 10   | 12       | 3    | 7    |
+
+</Route>
+
 ## 华尔街见闻
 
 ### 华尔街见闻
